@@ -52,21 +52,3 @@ En este mòdul, **la conclusió importa menys que com la justifiques**. Una bona
 | Llei 21/2013 | Avaluació d'impacte ambiental | UP6 |
 
 <p class="small-note">La normativa europea de sostenibilitat està en plena transposició. Abans de citar-la en una tasca, comprova'n l'estat al BOE o a EUR-Lex.</p>
-
-## Com preguntar al fòrum
-
-Una bona pregunta rep una bona resposta més ràpid. Usa esta plantilla:
-
-```text
-Unitat i tasca: UP3 · A3.2
-Què intente fer: classificar la situació 11 en ASG
-Què he pensat: crec que és G perquè és una decisió de proveïdor,
-               però també afecta clients (S)
-Dubte concret: puc justificar-la en les dues lletres?
-```
-
-**Abans de preguntar**, busca al fòrum per si algú ja ho ha preguntat, i torna a llegir l'enunciat i la rúbrica.
-
-## Contacte
-
-Per a temes personals, missatge privat per Aules o correu a <a data-c="correu" href="#"></a>.
