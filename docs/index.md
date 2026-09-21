@@ -82,10 +82,6 @@ No és una assignatura de medi ambient: és formació professional. Un tècnic d
 
     Tindràs un horari al centre amb activitats equivalents per a poder assolir els mateixos RA. La tasca A5.3 té una versió alternativa per a este cas.
 
-??? question "On pregunte els dubtes?"
-
-    Primer al fòrum de dubtes d'Aules: la teua pregunta pot ajudar altres companys. Per a temes personals, missatge privat per Aules. Tens una plantilla per a preguntar bé a [Recursos](recursos.md#com-preguntar-al-forum).
-
 ??? question "Les xifres dels apunts estan actualitzades?"
 
     Estan actualitzades a setembre de 2026 i sempre s'indica la font i l'any. La normativa de sostenibilitat canvia ràpid. Si trobes una dada més recent, porta-la a classe amb la font: és exactament el tipus de treball que es valora en este mòdul.
