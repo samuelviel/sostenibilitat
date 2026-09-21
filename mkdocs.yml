@@ -1,0 +1,93 @@
+site_name: Sostenibilitat Aplicada al Sistema Productiu
+site_description: Mòdul 1708 · 2n de Sistemes Microinformàtics i Xarxes · IES Maria Enríquez (Gandia) · Curs 2026-2027
+site_author: Samuel Viel Malonda
+# ⚠️ Comprova que coincideix amb el nom real del repositori
+site_url: https://samuelviel.github.io/sostenibilitat-smx/
+repo_url: https://github.com/samuelviel/sostenibilitat-smx
+repo_name: samuelviel/sostenibilitat-smx
+edit_uri: edit/main/docs/
+copyright: 2026 Samuel Viel Malonda · <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ca">CC BY-SA 4.0</a>
+
+theme:
+  name: material
+  language: ca
+  font: false          # les fonts es carreguen des de curs.css
+  icon:
+    logo: material/leaf
+    repo: fontawesome/brands/github
+  favicon: assets/favicon.svg
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Canvia a mode fosc
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Canvia a mode clar
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - navigation.indexes
+    - toc.follow
+    - search.highlight
+    - search.suggest
+    - content.code.copy
+
+plugins:
+  - search:
+      lang: es
+
+extra_css:
+  - assets/css/curs.css
+
+extra_javascript:
+  - assets/js/curs.js
+  - assets/js/curs-app.js
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+      custom_fences:
+        # ```quiz   → qüestionari d'autoavaluació (JSON)
+        - name: quiz
+          class: quiz
+          format: !!python/name:pymdownx.superfences.fence_div_format
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+nav:
+  - Inici: index.md
+  - El curs:
+      - Com funciona: guia.md
+      - Calendari: calendari.md
+      - Recursos: recursos.md
+  - Temari:
+      - "UP1 · La sostenibilitat i els seus reptes": unitats/up1.md
+      - "UP2 · Els ODS": unitats/up2.md
+      - "UP3 · Empresa i aspectes ASG": unitats/up3.md
+      - "UP4 · Disseny i producció sostenible": unitats/up4.md
+      - "UP5 · Mesurant la sostenibilitat": unitats/up5.md
+      - "UP6 · El pla de sostenibilitat": unitats/up6.md
