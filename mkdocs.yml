@@ -2,9 +2,9 @@ site_name: Sostenibilitat Aplicada al Sistema Productiu
 site_description: Mòdul 1708 · 2n de Sistemes Microinformàtics i Xarxes · IES Maria Enríquez (Gandia) · Curs 2026-2027
 site_author: Samuel Viel Malonda
 # ⚠️ Comprova que coincideix amb el nom real del repositori
-site_url: https://samuelviel.github.io/sostenibilitat-smx/
-repo_url: https://github.com/samuelviel/sostenibilitat-smx
-repo_name: samuelviel/sostenibilitat-smx
+site_url: https://samuelviel.github.io/sostenibilitat/
+repo_url: https://github.com/samuelviel/sostenibilitat
+repo_name: samuelviel/sostenibilitat
 edit_uri: edit/main/docs/
 copyright: 2026 Samuel Viel Malonda · <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ca">CC BY-SA 4.0</a>
 
