@@ -1,0 +1,31 @@
+{{ define "main" }}
+<article class="doc">
+  <header class="dochead">
+    {{ with .Params.unitat }}<p class="eyebrow">{{ . }}</p>{{ end }}
+    <h1>{{ .Title }}</h1>
+    {{ if or .Params.hores .Params.ra .Params.periode }}
+    <ul class="meta">
+      {{ with .Params.hores }}<li><strong>{{ . }}</strong> sessions</li>{{ end }}
+      {{ with .Params.periode }}<li>{{ . }}</li>{{ end }}
+      {{ with .Params.ra }}<li>{{ delimit . " · " }}</li>{{ end }}
+    </ul>
+    {{ end }}
+  </header>
+
+  {{ if .Params.toc }}
+  <details class="toc" open>
+    <summary>Contingut d'aquesta pàgina</summary>
+    {{ .TableOfContents }}
+  </details>
+  {{ end }}
+
+  <div class="body">
+    {{ .Content }}
+  </div>
+
+  <nav class="updown">
+    {{ with .PrevInSection }}<a class="prev" href="{{ .RelPermalink }}">← {{ .Title }}</a>{{ end }}
+    {{ with .NextInSection }}<a class="next" href="{{ .RelPermalink }}">{{ .Title }} →</a>{{ end }}
+  </nav>
+</article>
+{{ end }}

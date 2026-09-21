@@ -1,0 +1,23 @@
+baseURL = "/"
+languageCode = "ca-ES"
+defaultContentLanguage = "ca"
+title = "Sostenibilitat Aplicada al Sistema Productiu"
+enableRobotsTXT = true
+enableEmoji = false
+
+[params]
+  shortTitle = "SASP · 2n SMX"
+  description = "Materials del modul 1708 de 2n de Sistemes Microinformatics i Xarxes. IES Maria Enriquez, Gandia."
+  centre = "IES Maria Enriquez · Gandia"
+  curs = "Curs 2026-2027"
+  llicencia = "CC BY-SA 4.0"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[markup.tableOfContents]
+  startLevel = 2
+  endLevel = 3
+
+[taxonomies]
+  ra = "ra"
