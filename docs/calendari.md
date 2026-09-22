@@ -21,7 +21,7 @@ Una classe cada dimarts. Cada sessió (S1, S2…) està numerada i els festius j
 
 Abans de la Formació en Empresa, tres dimarts cauen en dia no lectiu: el 8 de desembre, el 29 de desembre i el 5 de gener. Falles i Pasqua cauen dins del període d'empresa.
 
-!!! info "Formació en Empresa: març i abril"
+!!! info "Formació en Empresa: març i abril - PROVISIONAL!! Pendent confirmació de dates."
 
     L'última classe abans de l'estada és el **23 de febrer** i tornem el **4 de maig**. Les unitats 1 a 4 es tanquen abans de marxar; la 5 i la 6 es treballen en tornar, a partir del que hàgeu vist a l'empresa.
 
