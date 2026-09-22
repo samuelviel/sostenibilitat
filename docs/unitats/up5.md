@@ -6,7 +6,7 @@ title: "Mesurant la sostenibilitat"
 
 # Mesurant la sostenibilitat
 
-<p class="unit-meta"><span class="chip ra">RA5</span> <span class="chip" data-unit-chip="up5"></span> <span class="chip">6 sessions</span></p>
+<p class="unit-meta"><span class="chip ra">RA5</span> <span class="chip" data-unit-chip="up5"></span> <span class="chip">3 sessions</span></p>
 
 Sense mesura no hi ha gestió. Indicadors, petjada de carboni, certificacions i inversió responsable, amb els indicadors propis del sector TIC.
 
@@ -21,9 +21,9 @@ Sense mesura no hi ha gestió. Indicadors, petjada de carboni, certificacions i 
 
 <div class="unit-sessions" data-unit-sessions="up5" markdown="0"></div>
 
-!!! info "Dates provisionals"
+!!! info "Després de la Formació en Empresa"
 
-    Esta unitat es treballa després de la Formació en Empresa. Si les dates de l'estada canvien, el calendari d'esta unitat es reajustarà i s'avisarà per Aules.
+    Esta unitat i la UP6 es treballen al maig i al juny, quan torneu de l'estada a l'empresa (març i abril). La primera sessió és la posada en comú del que heu vist: porta les teues notes, perquè són la base de la tasca A5.1.
 
 ## 1. Per què mesurar
 
@@ -239,7 +239,15 @@ Calcula el consum anual aproximat de l'aula on estàs i converteix-lo a CO₂e. 
 
     Seguix l'exercici model de la unitat, però amb les dades reals de l'aula: nombre d'equips, potència, hores i dies.
 
-#### 3. Notes ASG que no quadren <span class="nivell n3">Repte</span>
+#### 3. La ISO 14001 en una empresa de la comarca <span class="nivell n2">Mitjà</span>
+
+Explica quins passos hauria de seguir una empresa informàtica local per a certificar-se en ISO 14001, organitzats segons el cicle PDCA. Acaba amb dues línies: què certifica la norma i què no.
+
+??? question "Pista per a l'activitat 3"
+
+    Si l'empresa on has fet la Formació en Empresa té la certificació, pregunta-li com ho va fer. Si no la té, pregunta-li per què.
+
+#### 4. Notes ASG que no quadren <span class="nivell n3">Repte</span>
 
 Dues agències donen a la mateixa empresa una nota ASG molt diferent. Com ho investigaries per a decidir quina té més sentit?
 
@@ -247,9 +255,19 @@ Dues agències donen a la mateixa empresa una nota ASG molt diferent. Com ho inv
 
 Estes són les que compten. La rúbrica de cada tasca està a Aules des del dia que s'obri. **S3** vol dir que es lliura abans de començar la sessió 3; les dates exactes estan al [calendari](../calendari.md).
 
-!!! tasca "A5.1 · Mesurar l'aula"
+!!! tasca "A5.1 · Informe de l'estada formativa"
 
-    <div class="fitxa" markdown="0"><span class="chip">Parelles</span> <span class="chip">Lliurament: S27</span> <span class="chip ra">RA5 f)</span> <span class="chip pes">20% del RA5</span></div>
+    <div class="fitxa" markdown="0"><span class="chip">Individual</span> <span class="chip">Lliurament: S23</span> <span class="chip ra">RA5 d) f) h) i)</span> <span class="chip pes">30% del RA5</span></div>
+
+    **Què has de fer.** A partir de l'estada a l'empresa, identifica els indicadors de sostenibilitat que s'hi usen o que s'hi podrien usar, les bones pràctiques que has observat, i fes **dues propostes de millora justificades**. Indica també quina normativa ambiental afectava l'activitat de l'empresa.
+
+    **Què lliures.** Un informe de tres pàgines com a màxim.
+
+    **Com s'avalua.** Qualitat de l'observació, pertinença dels indicadors i viabilitat de les propostes. Si no has fet la Formació en Empresa, faràs un estudi equivalent sobre les empreses col·laboradores del cicle.
+
+!!! tasca "A5.2 · Mesurar l'aula"
+
+    <div class="fitxa" markdown="0"><span class="chip">Parelles</span> <span class="chip">Lliurament: S24</span> <span class="chip ra">RA5 f)</span> <span class="chip pes">25% del RA5</span></div>
 
     **Què has de fer.** Compareu el consum de **dues configuracions** d'un mateix equip: per exemple, la gestió d'energia per defecte contra una d'optimitzada. Si hi ha mesurador endollable, useu-lo; si no, les dades de la fitxa tècnica. Calculeu kWh anuals i CO₂e amb un factor d'emissió oficial.
 
@@ -257,31 +275,11 @@ Estes són les que compten. La rúbrica de cada tasca està a Aules des del dia 
 
     **Com s'avalua.** Rigor en la mesura i el càlcul, font del factor d'emissió i qualitat de la reflexió.
 
-!!! tasca "A5.2 · Fitxa ISO 14001"
-
-    <div class="fitxa" markdown="0"><span class="chip">Individual</span> <span class="chip">Lliurament: S29</span> <span class="chip ra">RA5 i)</span> <span class="chip pes">15% del RA5</span></div>
-
-    **Què has de fer.** Explica quins passos hauria de seguir una empresa informàtica local per a certificar-se en ISO 14001, organitzats segons el cicle PDCA.
-
-    **Què lliures.** Dues pàgines. Inclou un apartat final sobre què certifica la norma i què no.
-
-    **Com s'avalua.** Correcció del procés, bona correspondència amb el PDCA i precisió sobre l'abast real del certificat.
-
-!!! tasca "A5.3 · Informe de l'estada formativa"
-
-    <div class="fitxa" markdown="0"><span class="chip">Individual</span> <span class="chip">Lliurament: S30</span> <span class="chip ra">RA5 d) f) h)</span> <span class="chip pes">25% del RA5</span></div>
-
-    **Què has de fer.** A partir de l'estada a l'empresa, identifica els indicadors de sostenibilitat que s'hi usen o que s'hi podrien usar, les bones pràctiques que has observat, i fes **dues propostes de millora justificades**.
-
-    **Què lliures.** Un informe de tres pàgines com a màxim.
-
-    **Com s'avalua.** Qualitat de l'observació, pertinença dels indicadors i viabilitat de les propostes. Si no has fet la Formació en Empresa, faràs un estudi equivalent sobre les empreses col·laboradores del cicle.
-
 !!! tasca "Q5 · Qüestionari d'Aules"
 
-    <div class="fitxa" markdown="0"><span class="chip">Individual</span> <span class="chip">Tanca a la S30</span> <span class="chip pes">10% del RA5</span></div>
+    <div class="fitxa" markdown="0"><span class="chip">Individual</span> <span class="chip">Tanca en acabar la UP5 · S24</span> <span class="chip pes">15% del RA5</span></div>
 
-    Qüestionari a Aules sobre tota la unitat. És diferent del d'autoavaluació d'esta pàgina, i és el que compta per a la nota.
+    Qüestionari a Aules sobre tota la unitat. **Està obert mentre dura la unitat i es tanca en acabar-la.** És diferent del d'autoavaluació d'esta pàgina, i és el que compta per a la nota.
 
 ## Comprova-ho
 

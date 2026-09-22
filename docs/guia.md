@@ -16,7 +16,7 @@ Tot el que necessites saber per a organitzar-te: quan hi ha classe, què has de 
 
 ## Les classes
 
-Hi ha **una classe cada dimarts, de 12:10 a 13:05**. En total són 35 sessions, exactament les hores del mòdul, així que no hi ha marge per a recuperar-ne cap.
+Hi ha **una classe cada dimarts, de 12:10 a 13:05**. En total són **28 sessions al centre**: 21 de setembre a febrer, on es fan les unitats 1 a 4, i 7 al maig i juny, per a les unitats 5 i 6. **Al març i l'abril esteu a la Formació en Empresa** i no hi ha classes del mòdul.
 
 Consulta sempre el [calendari](calendari.md): les sessions estan numerades (S1, S2…) i els festius ja estan descomptats.
 
@@ -29,7 +29,7 @@ Consulta sempre el [calendari](calendari.md): les sessions estan numerades (S1, 
 1. **Abans de la classe.** Mira al calendari quin tema toca i llig l'apartat en esta web.
 2. **A classe.** Fem les activitats d'aula i resolem dubtes.
 3. **Després.** Avança la tasca d'Aules que estiga oberta. Mira la rúbrica abans de començar.
-4. **En acabar cada unitat.** Fes el qüestionari d'autoavaluació d'esta web i després el d'Aules, que és el que compta.
+4. **Abans que acabe cada unitat.** Fes el qüestionari d'autoavaluació d'esta web i després el d'Aules, que és el que compta. **El qüestionari d'Aules es tanca l'últim dia de la unitat**: consulta la data al calendari.
 
 ## On està cada cosa
 
@@ -37,8 +37,8 @@ Consulta sempre el [calendari](calendari.md): les sessions estan numerades (S1, 
 |---|---|
 | Apunts, activitats d'aula i autoavaluació | Esta web |
 | Tasques, rúbriques, qüestionaris puntuables i lliuraments | Aules |
-| Avisos oficials (dates, canvis) | Fòrum d'avisos d'Aules o <a data-c="correu" href="#"></a> |
-| Dubtes sobre el temari | Fòrum de dubtes d'Aules |
+| Avisos oficials (dates, canvis) | A classe i per missatge d'Aules |
+| Dubtes sobre el temari | A classe, o per missatge d'Aules o correu a <a data-c="correu" href="#"></a> |
 | Faltes d'assistència i notes oficials | ITACA · Web Família |
 
 ## Què s'avalua: resultats d'aprenentatge
@@ -73,32 +73,30 @@ El pes és el percentatge **dins del RA**, no del mòdul. Per exemple, «20% del
 |---|---|---|---|---|
 | [UP1](unitats/up1.md) | **A1.1** · Els tres pilars al sector informàtic | Individual | S3 | 20% del RA1 |
 | [UP1](unitats/up1.md) | **A1.2** · Fitxa de reptes | Parelles | S5 | 25% del RA2 |
-| [UP1](unitats/up1.md) | **A1.3** · Debat: qui ha de pagar la factura? | Grups de 3 o 4 | S6 | 20% del RA2 |
-| [UP1](unitats/up1.md) | **T1** · Tria de tema del treball d'investigació | Grups de 3 o 4 | S6 | 15% del RA1 |
-| [UP1](unitats/up1.md) | **Q1** · Qüestionari d'Aules | Individual | S12 | 25% del RA1 i 15% del RA2 |
-| [UP2](unitats/up2.md) | **A2.1** · El meu ODS | Individual | S9 | 10% del RA1 |
-| [UP2](unitats/up2.md) | **A2.2** · Caçadors d'SDG washing | Parelles | S10 | 15% del RA1 |
-| [UP2](unitats/up2.md) | **A2.3** · L'Agenda 2030, a favor i en contra | Individual | S11 | 10% del RA2 |
-| [UP2](unitats/up2.md) | **T2** · Exposició del treball d'investigació | Grup | S12 | 20% del RA2 |
-| [UP2](unitats/up2.md) | **Q2** · Qüestionari d'Aules | Individual | S12 | 15% del RA1 i 10% del RA2 |
-| [UP3](unitats/up3.md) | **A3.1** · Mapa de grups d'interés | Parelles | S14 | 25% del RA3 |
-| [UP3](unitats/up3.md) | **A3.2** · Classificació ASG | Individual | S15 | 20% del RA3 |
-| [UP3](unitats/up3.md) | **A3.3** · La ciberseguretat com a assumpte ASG | Individual | S16 | 25% del RA3 |
-| [UP3](unitats/up3.md) | **Q3** · Qüestionari d'Aules | Individual | S16 | 30% del RA3 |
-| [UP4](unitats/up4.md) | **A4.1** · El cicle de vida d'un portàtil | Individual | S18 | 20% del RA4 |
-| [UP4](unitats/up4.md) | **A4.2** · Les 9R al taller | Grups de 3 | S20 | 25% del RA4 |
-| [UP4](unitats/up4.md) | **A4.3** · Quant costa preguntar-li a una IA? | Parelles | S21 | 30% del RA5 |
-| [UP4](unitats/up4.md) | **A4.4** · Ecodisseny d'un servei del centre | Grups de 3 | S23 | 25% del RA4 |
-| [UP4](unitats/up4.md) | **T3** · Segona exposició del treball | Grup | S24 | 10% del RA4 |
-| [UP4](unitats/up4.md) | **Q4** · Qüestionari d'Aules | Individual | S24 | 20% del RA4 |
-| [UP5](unitats/up5.md) | **A5.1** · Mesurar l'aula | Parelles | S27 | 20% del RA5 |
-| [UP5](unitats/up5.md) | **A5.2** · Fitxa ISO 14001 | Individual | S29 | 15% del RA5 |
-| [UP5](unitats/up5.md) | **A5.3** · Informe de l'estada formativa | Individual | S30 | 25% del RA5 |
-| [UP5](unitats/up5.md) | **Q5** · Qüestionari d'Aules | Individual | S30 | 10% del RA5 |
-| [UP6](unitats/up6.md) | **A6.1** · Lectura crítica d'una memòria | Parelles | S32 | 20% del RA6 |
-| [UP6](unitats/up6.md) | **A6.2** · Quadre de comandament | Grups de 3 | S33 | 25% del RA6 |
-| [UP6](unitats/up6.md) | **A6.3** · Pla de sostenibilitat · producte final | Grups de 3 | S35 | 40% del RA6 |
-| [UP6](unitats/up6.md) | **Q6** · Qüestionari d'Aules | Individual | S35 | 15% del RA6 |
+| [UP1](unitats/up1.md) | **A1.3** · Debat: qui ha de pagar la factura? | Grups de 3 o 4 | S5 | 20% del RA2 |
+| [UP1](unitats/up1.md) | **T1** · Tria de tema del treball d'investigació | Grups de 3 o 4 | S4 | 15% del RA1 |
+| [UP1](unitats/up1.md) | **Q1** · Qüestionari d'Aules | Individual | Tanca a la S5 | 25% del RA1 i 15% del RA2 |
+| [UP2](unitats/up2.md) | **A2.1** · El meu ODS | Individual | S8 | 10% del RA1 |
+| [UP2](unitats/up2.md) | **A2.2** · Caçadors d'SDG washing | Parelles | S9 | 15% del RA1 |
+| [UP2](unitats/up2.md) | **A2.3** · L'Agenda 2030, a favor i en contra | Individual | S10 | 10% del RA2 |
+| [UP2](unitats/up2.md) | **T2** · Exposició del treball d'investigació | Grup | S10 | 20% del RA2 |
+| [UP2](unitats/up2.md) | **Q2** · Qüestionari d'Aules | Individual | Tanca a la S10 | 15% del RA1 i 10% del RA2 |
+| [UP3](unitats/up3.md) | **A3.1** · Mapa de grups d'interés | Parelles | S12 | 25% del RA3 |
+| [UP3](unitats/up3.md) | **A3.2** · Classificació ASG | Individual | S13 | 20% del RA3 |
+| [UP3](unitats/up3.md) | **A3.3** · La ciberseguretat com a assumpte ASG | Individual | S14 | 25% del RA3 |
+| [UP3](unitats/up3.md) | **Q3** · Qüestionari d'Aules | Individual | Tanca a la S14 | 30% del RA3 |
+| [UP4](unitats/up4.md) | **A4.1** · El cicle de vida d'un portàtil | Individual | S17 | 20% del RA4 |
+| [UP4](unitats/up4.md) | **A4.2** · Les 9R al taller | Grups de 3 | S18 | 25% del RA4 |
+| [UP4](unitats/up4.md) | **A4.3** · Quant costa preguntar-li a una IA? | Parelles | S19 | 30% del RA5 |
+| [UP4](unitats/up4.md) | **A4.4** · Ecodisseny d'un servei del centre | Grups de 3 | S21 | 25% del RA4 |
+| [UP4](unitats/up4.md) | **T3** · Segona exposició del treball | Grup | S21 | 10% del RA4 |
+| [UP4](unitats/up4.md) | **Q4** · Qüestionari d'Aules | Individual | Tanca a la S21 | 20% del RA4 |
+| [UP5](unitats/up5.md) | **A5.1** · Informe de l'estada formativa | Individual | S23 | 30% del RA5 |
+| [UP5](unitats/up5.md) | **A5.2** · Mesurar l'aula | Parelles | S24 | 25% del RA5 |
+| [UP5](unitats/up5.md) | **Q5** · Qüestionari d'Aules | Individual | Tanca a la S24 | 15% del RA5 |
+| [UP6](unitats/up6.md) | **A6.1** · Lectura crítica d'una memòria | Parelles | S26 | 25% del RA6 |
+| [UP6](unitats/up6.md) | **A6.2** · Pla de sostenibilitat · producte final | Grups de 3 | S28 | 55% del RA6 |
+| [UP6](unitats/up6.md) | **Q6** · Qüestionari d'Aules | Individual | Tanca a la S28 | 20% del RA6 |
 
 Les rúbriques de totes les tasques es publiquen a Aules abans que comence la tasca. **Ningú s'avalua a cegues.**
 
@@ -112,9 +110,11 @@ L'avaluació contínua requerix assistència. Les faltes es registren a ITACA.
 | 10% | El professorat ho comunica a la tutoria del grup |
 | **15%** | **Es perd el dret a l'avaluació contínua del mòdul** |
 
-Amb 35 sessions, el 15% són **cinc sessions i mitja**.
+Amb 28 sessions al centre, el 15% són **unes quatre sessions**. Cada falta pesa molt.
 
 ## Formació en Empresa
+
+L'estada és **al març i l'abril**. Durant eixe període no hi ha classes del mòdul, i en tornar, al maig, es treballen la UP5 i la UP6 a partir del que hàgeu vist a l'empresa.
 
 Per a poder fer l'estada formativa, l'equip educatiu del cicle exigix:
 

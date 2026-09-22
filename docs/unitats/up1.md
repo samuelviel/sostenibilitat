@@ -6,7 +6,7 @@ title: "La sostenibilitat i els seus reptes"
 
 # La sostenibilitat i els seus reptes
 
-<p class="unit-meta"><span class="chip ra">RA1</span> <span class="chip ra">RA2</span> <span class="chip" data-unit-chip="up1"></span> <span class="chip">6 sessions</span></p>
+<p class="unit-meta"><span class="chip ra">RA1</span> <span class="chip ra">RA2</span> <span class="chip" data-unit-chip="up1"></span> <span class="chip">5 sessions</span></p>
 
 Què vol dir realment sostenibilitat, d'on ve el concepte i quins reptes planteja. I per què el sector informàtic és alhora part del problema i part de la solució.
 
@@ -215,7 +215,7 @@ Estes són les que compten. La rúbrica de cada tasca està a Aules des del dia 
 
 !!! tasca "A1.3 · Debat: qui ha de pagar la factura?"
 
-    <div class="fitxa" markdown="0"><span class="chip">Grups de 3 o 4</span> <span class="chip">Lliurament: S6</span> <span class="chip ra">RA2 d) e)</span> <span class="chip pes">20% del RA2</span></div>
+    <div class="fitxa" markdown="0"><span class="chip">Grups de 3 o 4</span> <span class="chip">Lliurament: S5</span> <span class="chip ra">RA2 d) e)</span> <span class="chip pes">20% del RA2</span></div>
 
     **Què has de fer.** Moció: *La responsabilitat principal de reduir l'impacte ambiental de la tecnologia és dels fabricants, no dels usuaris ni dels tècnics.* Cada grup defendrà la postura que li toque, a favor o en contra. Heu de portar **almenys dues fonts contrastades** i acabar proposant una mesura concreta que es poguera aplicar.
 
@@ -225,19 +225,19 @@ Estes són les que compten. La rúbrica de cada tasca està a Aules des del dia 
 
 !!! tasca "T1 · Tria de tema del treball d'investigació"
 
-    <div class="fitxa" markdown="0"><span class="chip">Grups de 3 o 4</span> <span class="chip">Lliurament: S6</span> <span class="chip ra">RA1 d)</span> <span class="chip pes">15% del RA1</span></div>
+    <div class="fitxa" markdown="0"><span class="chip">Grups de 3 o 4</span> <span class="chip">Lliurament: S4</span> <span class="chip ra">RA1 d)</span> <span class="chip pes">15% del RA1</span></div>
 
     **Què has de fer.** Formeu el grup i trieu un tema del mòdul per a investigar durant el primer trimestre. Els temes que vau proposar al qüestionari inicial són un bon punt de partida.
 
-    **Què lliures.** Un guió amb la pregunta d'investigació, per què és rellevant per a un tècnic de SMX, cinc fonts inicials (almenys dues institucionals), el repartiment de rols i el calendari de treball fins a la S12.
+    **Què lliures.** Un guió amb la pregunta d'investigació, per què és rellevant per a un tècnic de SMX, cinc fonts inicials (almenys dues institucionals), el repartiment de rols i el calendari de treball fins a l'exposició de la S10.
 
     **Com s'avalua.** Que la pregunta siga concreta i investigable, la qualitat de les fonts i el realisme del calendari.
 
 !!! tasca "Q1 · Qüestionari d'Aules"
 
-    <div class="fitxa" markdown="0"><span class="chip">Individual</span> <span class="chip">Tanca a la S12</span> <span class="chip pes">25% del RA1 i 15% del RA2</span></div>
+    <div class="fitxa" markdown="0"><span class="chip">Individual</span> <span class="chip">Tanca en acabar la UP1 · S5</span> <span class="chip pes">25% del RA1 i 15% del RA2</span></div>
 
-    Qüestionari a Aules sobre tota la unitat. És diferent del d'autoavaluació d'esta pàgina, i és el que compta per a la nota.
+    Qüestionari a Aules sobre tota la unitat. **Està obert mentre dura la unitat i es tanca en acabar-la.** És diferent del d'autoavaluació d'esta pàgina, i és el que compta per a la nota.
 
 ## Comprova-ho
 

@@ -241,7 +241,7 @@ Estes són les que compten. La rúbrica de cada tasca està a Aules des del dia 
 
 !!! tasca "A3.1 · Mapa de grups d'interés"
 
-    <div class="fitxa" markdown="0"><span class="chip">Parelles</span> <span class="chip">Lliurament: S14</span> <span class="chip ra">RA3 a)</span> <span class="chip pes">25% del RA3</span></div>
+    <div class="fitxa" markdown="0"><span class="chip">Parelles</span> <span class="chip">Lliurament: S12</span> <span class="chip ra">RA3 a)</span> <span class="chip pes">25% del RA3</span></div>
 
     **Què has de fer.** Treballeu amb una empresa d'instal·lació i manteniment informàtic, real de la comarca o fictícia però ben descrita. Identifiqueu **vuit grups d'interés**, classifiqueu-los en interns i externs i situeu-los en una matriu poder-interés.
 
@@ -251,7 +251,7 @@ Estes són les que compten. La rúbrica de cada tasca està a Aules des del dia 
 
 !!! tasca "A3.2 · Classificació ASG"
 
-    <div class="fitxa" markdown="0"><span class="chip">Individual</span> <span class="chip">Lliurament: S15</span> <span class="chip ra">RA3 b)</span> <span class="chip pes">20% del RA3</span></div>
+    <div class="fitxa" markdown="0"><span class="chip">Individual</span> <span class="chip">Lliurament: S13</span> <span class="chip ra">RA3 b)</span> <span class="chip pes">20% del RA3</span></div>
 
     **Què has de fer.** Classifica les situacions de sota en ambiental, social o de governança. Per a cadascuna, indica també si és principalment un risc o una oportunitat. Justifica les que et semblen dubtoses: hi ha més d'una resposta defensable.
 
@@ -276,7 +276,7 @@ Estes són les que compten. La rúbrica de cada tasca està a Aules des del dia 
 
 !!! tasca "A3.3 · La ciberseguretat com a assumpte ASG"
 
-    <div class="fitxa" markdown="0"><span class="chip">Individual</span> <span class="chip">Lliurament: S16</span> <span class="chip ra">RA3 b) c)</span> <span class="chip pes">25% del RA3</span></div>
+    <div class="fitxa" markdown="0"><span class="chip">Individual</span> <span class="chip">Lliurament: S14</span> <span class="chip ra">RA3 b) c)</span> <span class="chip pes">25% del RA3</span></div>
 
     **Què has de fer.** Tria una bretxa de dades real i publicada d'una organització espanyola o europea. Analitza-la en clau ASG.
 
@@ -286,9 +286,9 @@ Estes són les que compten. La rúbrica de cada tasca està a Aules des del dia 
 
 !!! tasca "Q3 · Qüestionari d'Aules"
 
-    <div class="fitxa" markdown="0"><span class="chip">Individual</span> <span class="chip">Tanca a la S16</span> <span class="chip pes">30% del RA3</span></div>
+    <div class="fitxa" markdown="0"><span class="chip">Individual</span> <span class="chip">Tanca en acabar la UP3 · S14</span> <span class="chip pes">30% del RA3</span></div>
 
-    Qüestionari a Aules sobre tota la unitat. És diferent del d'autoavaluació d'esta pàgina, i és el que compta per a la nota.
+    Qüestionari a Aules sobre tota la unitat. **Està obert mentre dura la unitat i es tanca en acabar-la.** És diferent del d'autoavaluació d'esta pàgina, i és el que compta per a la nota.
 
 ## Comprova-ho
 

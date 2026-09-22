@@ -6,7 +6,7 @@ title: Calendari
 
 # Calendari de classes
 
-<p class="unit-meta"><span class="chip">Dimarts 12:10–13:05</span> <span class="chip">35 sessions</span></p>
+<p class="unit-meta"><span class="chip">Dimarts 12:10–13:05</span> <span class="chip">28 sessions</span> <span class="chip">Formació en Empresa: març i abril</span></p>
 
 Una classe cada dimarts. Cada sessió (S1, S2…) està numerada i els festius ja estan descomptats. La pròxima classe apareix marcada. Quan una tasca diu **«Lliurament: S5»**, vol dir que s'ha de lliurar abans de començar la sessió 5.
 
@@ -19,10 +19,12 @@ Una classe cada dimarts. Cada sessió (S1, S2…) està numerada i els festius j
 - **Pasqua:** del 25 de març al 5 d'abril de 2027.
 - **Altres festius:** 5, 9 i 12 d'octubre, 7 i 8 de desembre i 1 de maig.
 
-Cinc dimarts cauen en dia no lectiu: el 8 de desembre, el 29 de desembre, el 5 de gener, el 16 de març i el 30 de març.
+Abans de la Formació en Empresa, tres dimarts cauen en dia no lectiu: el 8 de desembre, el 29 de desembre i el 5 de gener. Falles i Pasqua cauen dins del període d'empresa.
 
-!!! info "Bloc provisional: abril i maig"
+!!! info "Formació en Empresa: març i abril"
 
-    Les sessions de la UP5 poden canviar en funció de les dates definitives de la Formació en Empresa. Qualsevol canvi s'avisarà pel fòrum d'avisos d'Aules.
+    L'última classe abans de l'estada és el **23 de febrer** i tornem el **4 de maig**. Les unitats 1 a 4 es tanquen abans de marxar; la 5 i la 6 es treballen en tornar, a partir del que hàgeu vist a l'empresa.
+
+    Els **qüestionaris d'Aules es tanquen l'últim dia de cada unitat**. Les dates estan marcades al calendari.
 
 <p class="small-note">Fonts: Resolució de 15 de juny de 2026 (DOGV núm. 10387) i acord del Consell Escolar Municipal de Gandia. Les dates d'exposicions i lliuraments es confirmen a Aules.</p>

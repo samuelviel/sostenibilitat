@@ -38,7 +38,12 @@
     const C = window.CURS, cal = C.calendari;
     const start = parseDate(cal.primeraSessio), end = parseDate(cal.fiCurs);
     const offRanges = cal.noLectius.map(([a, b, motiu]) => [parseDate(a), parseDate(b), motiu]);
-    const offReason = (d) => { const r = offRanges.find(([a, b]) => d >= a && d <= b); return r ? r[2] : null; };
+    const feRanges = (cal.formacioEmpresa || []).map(([a, b, motiu]) => [parseDate(a), parseDate(b), motiu]);
+    const inFE = (d) => feRanges.find(([a, b]) => d >= a && d <= b);
+    const offReason = (d) => {
+      const fe = inFE(d); if (fe) return fe[2];
+      const r = offRanges.find(([a, b]) => d >= a && d <= b); return r ? r[2] : null;
+    };
     const tornKeys = Object.keys(C.torns);
     const slots = [];
     if (tornKeys.length === 1) {
@@ -46,7 +51,7 @@
       const torn = tornKeys[0], wd = C.torns[torn].weekday;
       const d = new Date(start);
       d.setDate(d.getDate() + ((wd - d.getDay() + 7) % 7));
-      for (; d <= end; d.setDate(d.getDate() + 7)) slots.push({ date: new Date(d), torn, off: offReason(d) });
+      for (; d <= end; d.setDate(d.getDate() + 7)) slots.push({ date: new Date(d), torn, off: offReason(d), fe: !!inFE(d) });
     } else {
       // Dos torns alterns (com al curs de Python)
       const firstTorn = tornKeys.find((k) => C.torns[k].weekday === start.getDay());
@@ -60,7 +65,7 @@
         const d = new Date(w);
         d.setDate(d.getDate() + C.torns[torn].weekday - 1);
         if (d < start || d > end) continue;
-        slots.push({ date: d, torn, off: offReason(d) });
+        slots.push({ date: d, torn, off: offReason(d), fe: !!inFE(d) });
       }
     }
 
@@ -76,7 +81,7 @@
       i++;
     }
     if (i < C.sessions.length) console.warn(`Calendari: falten ${C.sessions.length - i} dies de classe per a les sessions previstes.`);
-    PLA = { rows, sessions: rows.filter((r) => r.ses) };
+    PLA = { rows, sessions: rows.filter((r) => r.ses), feRanges };
     return PLA;
   }
 
@@ -100,7 +105,9 @@
     const s = list[idx], after = list[idx + 1], t = C.torns[s.torn];
     const today = new Date(); today.setHours(0, 0, 0, 0);
     const days = Math.round((s.date - today) / 86400000);
-    const when = days === 0 ? "Hui hi ha classe" : days === 1 ? "Pròxima classe: demà" : `Pròxima classe: d'ací ${days} dies`;
+    const feNow = plan().feRanges.find(([a, b]) => { const e = new Date(b); e.setHours(23, 59, 59); return now >= a && now <= e; });
+    const when = feNow ? `${feNow[2]} · tornem a classe d'ací ${days} dies`
+      : days === 0 ? "Hui hi ha classe" : days === 1 ? "Pròxima classe: demà" : `Pròxima classe: d'ací ${days} dies`;
     el.innerHTML = `
       <div class="ticket-top">
         <div class="ticket-label">${when}</div>
@@ -127,13 +134,28 @@
     const groups = C.calendari.trimestres.map(([nom, a, b]) => ({
       nom, rows: rows.filter((r) => r.date >= parseDate(a) && r.date <= parseDate(b))
     }));
+    // Fusiona files no lectives consecutives amb el mateix motiu
+    groups.forEach((g) => {
+      const out = [];
+      g.rows.forEach((r) => {
+        const prev = out[out.length - 1];
+        if (!r.ses && prev && !prev.ses && prev.off === r.off) { prev.until = r.date; return; }
+        out.push(Object.assign({}, r));
+      });
+      g.rows = out;
+    });
     el.innerHTML = groups.filter((g) => g.rows.length).map((g) => `
       <h2 id="${g.nom.replace(/\W+/g, "-").toLowerCase()}">${g.nom}</h2>
       <ol class="cal-list">
         ${g.rows.map((r) => {
           const t = C.torns[r.torn];
           if (!r.ses) {
-            return `<li class="cal-off"><span class="cal-n"></span><span class="cal-date">${cap(fmtLong(r.date))}</span><span class="cal-topic">No lectiu · ${esc(r.off)}</span></li>`;
+            const dates = r.until ? `Del ${fmtLong(r.date)} al ${fmtLong(r.until)}` : cap(fmtLong(r.date));
+            if (r.fe) {
+              const n = r.until ? Math.round((r.until - r.date) / (7 * 86400000)) + 1 : 1;
+              return `<li class="cal-fe"><span class="cal-n"></span><span class="cal-date">${dates}</span><span class="cal-topic">${esc(r.off)}<small class="cal-note">Sense classes al centre · ${n} dimarts</small></span></li>`;
+            }
+            return `<li class="cal-off"><span class="cal-n"></span><span class="cal-date">${dates}</span><span class="cal-topic">No lectiu · ${esc(r.off)}</span></li>`;
           }
           const cls = [r.ses.examen ? "cal-exam" : "", next === r ? "cal-now" : "", r.end < now ? "cal-past" : ""].join(" ").trim();
           return `<li class="${cls}">

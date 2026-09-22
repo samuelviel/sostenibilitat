@@ -6,7 +6,7 @@ title: "El pla de sostenibilitat i altres documents"
 
 # El pla de sostenibilitat i altres documents
 
-<p class="unit-meta"><span class="chip ra">RA6</span> <span class="chip" data-unit-chip="up6"></span> <span class="chip">5 sessions</span></p>
+<p class="unit-meta"><span class="chip ra">RA6</span> <span class="chip" data-unit-chip="up6"></span> <span class="chip">4 sessions</span></p>
 
 Tot el mòdul conflueix ací. Els documents d'informació no financera, com llegir-los amb ull crític i com elaborar un pla de sostenibilitat, que és el producte final del curs.
 
@@ -233,15 +233,23 @@ Busca la memòria de sostenibilitat d'una empresa tecnològica i aplica-li els s
 
     Comença per l'índex i pel final: la taula d'indicadors i l'informe de verificació diuen molt més que la carta de la direcció.
 
-#### 2. Publicar sense obligació <span class="nivell n1">Bàsic</span>
+#### 2. Esborrany del quadre de comandament <span class="nivell n2">Mitjà</span>
+
+En grup, definiu cinc indicadors per a una empresa informàtica xicoteta, almenys un per a cada lletra ASG. Per a cadascun: nom, fórmula, font de les dades i periodicitat. Serà la base del quadre de comandament de la tasca A6.2.
+
+??? question "Pista per a l'activitat 2"
+
+    Un indicador que l'empresa no pot mesurar amb les dades que ja té, o que pot obtindre fàcilment, no servix. Comenceu per les factures, l'inventari i les nòmines.
+
+#### 3. Publicar sense obligació <span class="nivell n1">Bàsic</span>
 
 Per què una empresa que ja no està obligada per la CSRD continuaria publicant informació de sostenibilitat? Dona tres raons econòmiques.
 
-#### 3. Una al·legació sota la lupa <span class="nivell n3">Repte</span>
+#### 4. Una al·legació sota la lupa <span class="nivell n3">Repte</span>
 
 Localitza una afirmació ambiental en la publicitat d'un producte informàtic i decidix si, amb la Directiva 2024/825 a la mà, es podria mantindre tal com està redactada.
 
-??? question "Pista per a l'activitat 3"
+??? question "Pista per a l'activitat 4"
 
     Fixa't en si és genèrica, si té prova, si es basa en un segell reconegut i si parla de neutralitat climàtica.
 
@@ -251,7 +259,7 @@ Estes són les que compten. La rúbrica de cada tasca està a Aules des del dia 
 
 !!! tasca "A6.1 · Lectura crítica d'una memòria"
 
-    <div class="fitxa" markdown="0"><span class="chip">Parelles</span> <span class="chip">Lliurament: S32</span> <span class="chip ra">RA6 a) b)</span> <span class="chip pes">20% del RA6</span></div>
+    <div class="fitxa" markdown="0"><span class="chip">Parelles</span> <span class="chip">Lliurament: S26</span> <span class="chip ra">RA6 a) b)</span> <span class="chip pes">25% del RA6</span></div>
 
     **Què has de fer.** Analitzeu la memòria de sostenibilitat real d'una empresa tecnològica. Localitzeu els grups d'interés que identifica, la seua matriu de materialitat i els indicadors principals.
 
@@ -259,21 +267,11 @@ Estes són les que compten. La rúbrica de cada tasca està a Aules des del dia 
 
     **Com s'avalua.** Precisió en la localització de la informació i rigor en l'aplicació dels criteris.
 
-!!! tasca "A6.2 · Quadre de comandament"
+!!! tasca "A6.2 · Pla de sostenibilitat · producte final"
 
-    <div class="fitxa" markdown="0"><span class="chip">Grups de 3</span> <span class="chip">Lliurament: S33</span> <span class="chip ra">RA6 d)</span> <span class="chip pes">25% del RA6</span></div>
+    <div class="fitxa" markdown="0"><span class="chip">Grups de 3</span> <span class="chip">Lliurament: S28</span> <span class="chip ra">RA6 c) d) e)</span> <span class="chip pes">55% del RA6</span></div>
 
-    **Què has de fer.** Definiu **cinc indicadors** per a una empresa informàtica xicoteta, almenys un per a cada lletra ASG.
-
-    **Què lliures.** Per a cada indicador: nom, fórmula, font de les dades, periodicitat i per què és rellevant.
-
-    **Com s'avalua.** Que els indicadors siguen mesurables amb dades que l'empresa puga obtindre, que cobrisquen les tres lletres i que estiguen ben justificats.
-
-!!! tasca "A6.3 · Pla de sostenibilitat · producte final"
-
-    <div class="fitxa" markdown="0"><span class="chip">Grups de 3</span> <span class="chip">Lliurament: S35</span> <span class="chip ra">RA6 c) e)</span> <span class="chip pes">40% del RA6</span></div>
-
-    **Què has de fer.** Elaboreu el pla de sostenibilitat simplificat d'una empresa del sector TIC, seguint la plantilla de la unitat. Podeu reutilitzar la faena de les tasques A3.1 i A6.2.
+    **Què has de fer.** Elaboreu el pla de sostenibilitat simplificat d'una empresa del sector TIC, seguint la plantilla de la unitat. Ha d'incloure un **quadre de comandament de cinc indicadors**, almenys un per lletra ASG. Podeu reutilitzar la faena de la tasca A3.1 i de l'activitat d'aula del quadre de comandament.
 
     **Què lliures.** El document del pla i una defensa oral de 10 minuts.
 
@@ -281,9 +279,9 @@ Estes són les que compten. La rúbrica de cada tasca està a Aules des del dia 
 
 !!! tasca "Q6 · Qüestionari d'Aules"
 
-    <div class="fitxa" markdown="0"><span class="chip">Individual</span> <span class="chip">Tanca a la S35</span> <span class="chip pes">15% del RA6</span></div>
+    <div class="fitxa" markdown="0"><span class="chip">Individual</span> <span class="chip">Tanca en acabar la UP6 · S28</span> <span class="chip pes">20% del RA6</span></div>
 
-    Qüestionari a Aules sobre tota la unitat. És diferent del d'autoavaluació d'esta pàgina, i és el que compta per a la nota.
+    Qüestionari a Aules sobre tota la unitat. **Està obert mentre dura la unitat i es tanca en acabar-la.** És diferent del d'autoavaluació d'esta pàgina, i és el que compta per a la nota.
 
 ## Comprova-ho
 

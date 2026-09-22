@@ -6,7 +6,7 @@ title: "Les fites de la sostenibilitat: els ODS"
 
 # Les fites de la sostenibilitat: els ODS
 
-<p class="unit-meta"><span class="chip ra">RA1</span> <span class="chip ra">RA2</span> <span class="chip" data-unit-chip="up2"></span> <span class="chip">6 sessions</span></p>
+<p class="unit-meta"><span class="chip ra">RA1</span> <span class="chip ra">RA2</span> <span class="chip" data-unit-chip="up2"></span> <span class="chip">5 sessions</span></p>
 
 L'Agenda 2030 i els 17 Objectius de Desenvolupament Sostenible: què són, quins toquen el teu perfil i com distingir una empresa que els treballa d'una que només els usa de decoració.
 
@@ -192,7 +192,7 @@ Estes són les que compten. La rúbrica de cada tasca està a Aules des del dia 
 
 !!! tasca "A2.1 · El meu ODS"
 
-    <div class="fitxa" markdown="0"><span class="chip">Individual</span> <span class="chip">Lliurament: S9</span> <span class="chip ra">RA1 c) · RA3 a)</span> <span class="chip pes">10% del RA1</span></div>
+    <div class="fitxa" markdown="0"><span class="chip">Individual</span> <span class="chip">Lliurament: S8</span> <span class="chip ra">RA1 c) · RA3 a)</span> <span class="chip pes">10% del RA1</span></div>
 
     **Què has de fer.** Tria l'ODS que consideres més rellevant per a un tècnic de SMX i justifica-ho citant **una fita concreta** amb el seu número. Proposa dues accions que podries fer tu al taller o a l'aula d'informàtica.
 
@@ -202,7 +202,7 @@ Estes són les que compten. La rúbrica de cada tasca està a Aules des del dia 
 
 !!! tasca "A2.2 · Caçadors d'SDG washing"
 
-    <div class="fitxa" markdown="0"><span class="chip">Parelles</span> <span class="chip">Lliurament: S10</span> <span class="chip ra">RA1 d) e)</span> <span class="chip pes">15% del RA1</span></div>
+    <div class="fitxa" markdown="0"><span class="chip">Parelles</span> <span class="chip">Lliurament: S9</span> <span class="chip ra">RA1 d) e)</span> <span class="chip pes">15% del RA1</span></div>
 
     **Què has de fer.** Analitzeu els ODS que declara una empresa del sector TIC. Per a cada ODS, apliqueu els quatre filtres de la unitat: indicador, línia base i data, coherència amb el negoci i verificació externa.
 
@@ -212,7 +212,7 @@ Estes són les que compten. La rúbrica de cada tasca està a Aules des del dia 
 
 !!! tasca "A2.3 · L'Agenda 2030, a favor i en contra"
 
-    <div class="fitxa" markdown="0"><span class="chip">Individual</span> <span class="chip">Lliurament: S11</span> <span class="chip ra">RA2 e)</span> <span class="chip pes">10% del RA2</span></div>
+    <div class="fitxa" markdown="0"><span class="chip">Individual</span> <span class="chip">Lliurament: S10</span> <span class="chip ra">RA2 e)</span> <span class="chip pes">10% del RA2</span></div>
 
     **Què has de fer.** Identifica **dos punts forts i dues crítiques raonables** a l'Agenda 2030, cadascun amb una font. Tanca amb un paràgraf on expliques la teua postura.
 
@@ -222,7 +222,7 @@ Estes són les que compten. La rúbrica de cada tasca està a Aules des del dia 
 
 !!! tasca "T2 · Exposició del treball d'investigació"
 
-    <div class="fitxa" markdown="0"><span class="chip">Grup</span> <span class="chip">Lliurament: S12</span> <span class="chip ra">RA2 c) d) e)</span> <span class="chip pes">20% del RA2</span></div>
+    <div class="fitxa" markdown="0"><span class="chip">Grup</span> <span class="chip">Lliurament: S10</span> <span class="chip ra">RA2 c) d) e)</span> <span class="chip pes">20% del RA2</span></div>
 
     **Què has de fer.** Presenteu el treball d'investigació al grup: **8 minuts d'exposició i 4 de preguntes**. Tots els membres han d'intervindre.
 
@@ -232,9 +232,9 @@ Estes són les que compten. La rúbrica de cada tasca està a Aules des del dia 
 
 !!! tasca "Q2 · Qüestionari d'Aules"
 
-    <div class="fitxa" markdown="0"><span class="chip">Individual</span> <span class="chip">Tanca a la S12</span> <span class="chip pes">15% del RA1 i 10% del RA2</span></div>
+    <div class="fitxa" markdown="0"><span class="chip">Individual</span> <span class="chip">Tanca en acabar la UP2 · S10</span> <span class="chip pes">15% del RA1 i 10% del RA2</span></div>
 
-    Qüestionari a Aules sobre tota la unitat. És diferent del d'autoavaluació d'esta pàgina, i és el que compta per a la nota.
+    Qüestionari a Aules sobre tota la unitat. **Està obert mentre dura la unitat i es tanca en acabar-la.** És diferent del d'autoavaluació d'esta pàgina, i és el que compta per a la nota.
 
 ## Comprova-ho
 

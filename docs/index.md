@@ -31,7 +31,7 @@ No és una assignatura de medi ambient: és formació professional. Un tècnic d
 
     ---
 
-    De **12:10 a 13:05**. Són 35 sessions en tot el curs, sense marge: cada una compta. Consulta el [calendari](calendari.md).
+    De **12:10 a 13:05**. Són 28 sessions: de setembre a febrer i, després de la Formació en Empresa, al maig i juny. Cada una compta. Consulta el [calendari](calendari.md).
 
 -   **Esta web són els apunts**
 
@@ -43,7 +43,7 @@ No és una assignatura de medi ambient: és formació professional. Un tècnic d
 
     ---
 
-    Tasques, rúbriques, qüestionaris que compten per a nota i avisos oficials. Subscriu-te al fòrum d'avisos.
+    Tasques, rúbriques i qüestionaris que compten per a nota. Els avisos es donen a classe i per missatge d'Aules.
 
 -   **S'avalua per resultats d'aprenentatge**
 
@@ -57,22 +57,23 @@ No és una assignatura de medi ambient: és formació professional. Un tècnic d
 
 | | Unitat | De què va | Sessions |
 |---|---|---|---|
-| UP1 | [La sostenibilitat i els seus reptes](unitats/up1.md) | Tres dimensions, marcs internacionals i el sector TIC com a impacte | 6 |
-| UP2 | [Les fites: els ODS](unitats/up2.md) | Agenda 2030, els ODS del perfil SMX i com detectar l'SDG washing | 6 |
+| UP1 | [La sostenibilitat i els seus reptes](unitats/up1.md) | Tres dimensions, marcs internacionals i el sector TIC com a impacte | 5 |
+| UP2 | [Les fites: els ODS](unitats/up2.md) | Agenda 2030, els ODS del perfil SMX i com detectar l'SDG washing | 5 |
 | UP3 | [Empresa i aspectes ASG](unitats/up3.md) | Grups d'interés, materialitat, CSRD i Òmnibus I | 4 |
-| UP4 | [Disseny i producció sostenible](unitats/up4.md) | Cicle de vida, economia circular, ecodisseny, dret a reparar i RAEE | 8 |
-| UP5 | [Mesurant la sostenibilitat](unitats/up5.md) | Indicadors, petjada de carboni, ISO 14001 i inversió responsable | 6 |
-| UP6 | [El pla de sostenibilitat](unitats/up6.md) | Memòries, estàndards, greenwashing i el pla com a producte final | 5 |
+| UP4 | [Disseny i producció sostenible](unitats/up4.md) | Cicle de vida, economia circular, ecodisseny, dret a reparar i RAEE | 7 |
+| | *Formació en Empresa* | *Març i abril: sense classes del mòdul* | |
+| UP5 | [Mesurant la sostenibilitat](unitats/up5.md) | Indicadors, petjada de carboni, ISO 14001 i inversió responsable | 3 |
+| UP6 | [El pla de sostenibilitat](unitats/up6.md) | Memòries, estàndards, greenwashing i el pla com a producte final | 4 |
 
 ## Preguntes freqüents
 
 ??? question "He d'anar obligatòriament a classe?"
 
-    Sí. El mòdul és presencial i l'avaluació és contínua. Superat el 15% d'inassistència es perd el dret a l'avaluació contínua, i amb 35 sessions això són **cinc sessions i mitja**. Tres sessions perdudes ja són quasi un 9% del mòdul.
+    Sí. El mòdul és presencial i l'avaluació és contínua. Superat el 15% d'inassistència es perd el dret a l'avaluació contínua, i amb 28 sessions al centre això són **unes quatre sessions**. Tres sessions perdudes ja superen el 10% del mòdul.
 
 ??? question "Hi ha un examen final?"
 
-    No hi ha un examen únic. Cada unitat té tasques, i les unitats 1, 2 i 4 inclouen una exposició del treball d'investigació. Al final de cada unitat hi ha un qüestionari a Aules que compta per a nota. El d'esta web és només per a practicar.
+    No hi ha un examen únic. Cada unitat té tasques, i les unitats 1, 2 i 4 inclouen una exposició del treball d'investigació. Cada unitat té un qüestionari a Aules que compta per a nota i **es tanca l'últim dia de la unitat**. El d'esta web és només per a practicar.
 
 ??? question "Què passa si suspenc un RA?"
 
@@ -80,7 +81,7 @@ No és una assignatura de medi ambient: és formació professional. Un tècnic d
 
 ??? question "I si no faig la Formació en Empresa?"
 
-    Tindràs un horari al centre amb activitats equivalents per a poder assolir els mateixos RA. La tasca A5.3 té una versió alternativa per a este cas.
+    Tindràs un horari al centre amb activitats equivalents per a poder assolir els mateixos RA. La tasca A5.1 té una versió alternativa per a este cas.
 
 ??? question "Les xifres dels apunts estan actualitzades?"
 

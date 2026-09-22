@@ -180,3 +180,9 @@
   font-size: .72rem; padding: .15em .7em; border-radius: 999px;
   background: var(--curs-marker-soft); color: var(--curs-ink); font-weight: 600;
 }
+/* Període de Formació en Empresa al calendari */
+.md-typeset .cal-list > li.cal-fe { background: repeating-linear-gradient(135deg, var(--curs-marker-soft) 0 10px, transparent 10px 20px); }
+.md-typeset .cal-list > li.cal-fe::before { border-radius: 3px; border-color: #c87f2a; background: #f6e3cd; }
+.md-typeset .cal-list > li.cal-fe .cal-date { font-weight: 700; }
+.md-typeset .cal-list > li.cal-fe .cal-topic { font-weight: 700; color: #a0621c; }
+[data-md-color-scheme="slate"] .md-typeset .cal-list > li.cal-fe .cal-topic { color: #f0b877; }

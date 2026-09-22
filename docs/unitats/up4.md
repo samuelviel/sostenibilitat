@@ -6,7 +6,7 @@ title: "Disseny i producció sostenible"
 
 # Disseny i producció sostenible
 
-<p class="unit-meta"><span class="chip ra">RA4</span> <span class="chip ra">RA5</span> <span class="chip" data-unit-chip="up4"></span> <span class="chip">8 sessions</span></p>
+<p class="unit-meta"><span class="chip ra">RA4</span> <span class="chip ra">RA5</span> <span class="chip" data-unit-chip="up4"></span> <span class="chip">7 sessions</span></p>
 
 La unitat més professional del mòdul. Cicle de vida, economia circular, ecodisseny, dret a reparar i gestió de residus electrònics: el que decidix quin tipus de tècnic seràs.
 
@@ -23,6 +23,10 @@ La unitat més professional del mòdul. Cicle de vida, economia circular, ecodis
 ### Sessions d'aquesta unitat
 
 <div class="unit-sessions" data-unit-sessions="up4" markdown="0"></div>
+
+!!! warning "Última unitat abans de l'empresa"
+
+    La UP4 acaba el 23 de febrer amb la segona exposició del treball i el tancament del qüestionari Q4. Al març i l'abril no hi ha classes del mòdul: tot el que quede pendent d'esta unitat s'ha de tancar abans.
 
 ## 1. El model lineal: extraure, produir, usar, tirar
 
@@ -256,7 +260,7 @@ Estes són les que compten. La rúbrica de cada tasca està a Aules des del dia 
 
 !!! tasca "A4.1 · El cicle de vida d'un portàtil"
 
-    <div class="fitxa" markdown="0"><span class="chip">Individual</span> <span class="chip">Lliurament: S18</span> <span class="chip ra">RA4 a) e)</span> <span class="chip pes">20% del RA4</span></div>
+    <div class="fitxa" markdown="0"><span class="chip">Individual</span> <span class="chip">Lliurament: S17</span> <span class="chip ra">RA4 a) e)</span> <span class="chip pes">20% del RA4</span></div>
 
     **Què has de fer.** Busca la **fitxa ambiental de producte** d'un portàtil real publicada pel fabricant. Fes un diagrama de les cinc fases del cicle de vida indicant el percentatge de petjada que la fitxa atribuïx a cada fase.
 
@@ -266,7 +270,7 @@ Estes són les que compten. La rúbrica de cada tasca està a Aules des del dia 
 
 !!! tasca "A4.2 · Les 9R al taller"
 
-    <div class="fitxa" markdown="0"><span class="chip">Grups de 3</span> <span class="chip">Lliurament: S20</span> <span class="chip ra">RA4 b) c)</span> <span class="chip pes">25% del RA4</span></div>
+    <div class="fitxa" markdown="0"><span class="chip">Grups de 3</span> <span class="chip">Lliurament: S18</span> <span class="chip ra">RA4 b) c)</span> <span class="chip pes">25% del RA4</span></div>
 
     **Què has de fer.** Us arriba un lot d'equips retirats. Per a cada tipus d'equip, decidiu **l'R més alta** que s'hi pot aplicar i justifiqueu per què no se'n pot aplicar una de més amunt.
 
@@ -286,7 +290,7 @@ Estes són les que compten. La rúbrica de cada tasca està a Aules des del dia 
 
 !!! tasca "A4.3 · Quant costa preguntar-li a una IA?"
 
-    <div class="fitxa" markdown="0"><span class="chip">Parelles</span> <span class="chip">Lliurament: S21</span> <span class="chip ra">RA5 d)</span> <span class="chip pes">30% del RA5</span></div>
+    <div class="fitxa" markdown="0"><span class="chip">Parelles</span> <span class="chip">Lliurament: S19</span> <span class="chip ra">RA5 d)</span> <span class="chip pes">30% del RA5</span></div>
 
     **Què has de fer.** Estimeu l'energia i les emissions d'una tasca concreta feta amb i sense IA generativa: per exemple, redactar una incidència tècnica o resumir un manual. Useu estimacions publicades i expliciteu totes les suposicions.
 
@@ -296,7 +300,7 @@ Estes són les que compten. La rúbrica de cada tasca està a Aules des del dia 
 
 !!! tasca "A4.4 · Ecodisseny d'un servei del centre"
 
-    <div class="fitxa" markdown="0"><span class="chip">Grups de 3</span> <span class="chip">Lliurament: S23</span> <span class="chip ra">RA4 d) f)</span> <span class="chip pes">25% del RA4</span></div>
+    <div class="fitxa" markdown="0"><span class="chip">Grups de 3</span> <span class="chip">Lliurament: S21</span> <span class="chip ra">RA4 d) f)</span> <span class="chip pes">25% del RA4</span></div>
 
     **Què has de fer.** Trieu un servici informàtic del centre: l'aula d'informàtica, la impressió, la xarxa wifi, un servidor o el préstec d'equips. Proposeu-ne un redisseny aplicant els principis d'ecodisseny de la unitat.
 
@@ -306,7 +310,7 @@ Estes són les que compten. La rúbrica de cada tasca està a Aules des del dia 
 
 !!! tasca "T3 · Segona exposició del treball"
 
-    <div class="fitxa" markdown="0"><span class="chip">Grup</span> <span class="chip">Lliurament: S24</span> <span class="chip ra">RA4 c) d)</span> <span class="chip pes">10% del RA4</span></div>
+    <div class="fitxa" markdown="0"><span class="chip">Grup</span> <span class="chip">Lliurament: S21</span> <span class="chip ra">RA4 c) d)</span> <span class="chip pes">10% del RA4</span></div>
 
     **Què has de fer.** Presenteu l'avanç del treball d'investigació, ara connectant-lo amb l'economia circular o l'ecodisseny.
 
@@ -316,9 +320,9 @@ Estes són les que compten. La rúbrica de cada tasca està a Aules des del dia 
 
 !!! tasca "Q4 · Qüestionari d'Aules"
 
-    <div class="fitxa" markdown="0"><span class="chip">Individual</span> <span class="chip">Tanca a la S24</span> <span class="chip pes">20% del RA4</span></div>
+    <div class="fitxa" markdown="0"><span class="chip">Individual</span> <span class="chip">Tanca en acabar la UP4 · S21</span> <span class="chip pes">20% del RA4</span></div>
 
-    Qüestionari a Aules sobre tota la unitat. És diferent del d'autoavaluació d'esta pàgina, i és el que compta per a la nota.
+    Qüestionari a Aules sobre tota la unitat. **Està obert mentre dura la unitat i es tanca en acabar-la.** És diferent del d'autoavaluació d'esta pàgina, i és el que compta per a la nota.
 
 ## Comprova-ho
 
