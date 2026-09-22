@@ -6,7 +6,7 @@ title: Calendari
 
 # Calendari de classes
 
-<p class="unit-meta"><span class="chip">Dimarts 12:10–13:05</span> <span class="chip">28 sessions</span> <span class="chip">Formació en Empresa: març i abril</span></p>
+<p class="unit-meta"><span class="chip">Dimarts 12:10–13:05</span> <span class="chip">28 sessions</span> <span class="chip">Formació en Empresa: març i abril (PROVISIONAL)</span></p>
 
 Una classe cada dimarts. Cada sessió (S1, S2…) està numerada i els festius ja estan descomptats. La pròxima classe apareix marcada. Quan una tasca diu **«Lliurament: S5»**, vol dir que s'ha de lliurar abans de començar la sessió 5.
 
